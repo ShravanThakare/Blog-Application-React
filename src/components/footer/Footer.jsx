@@ -36,7 +36,7 @@ function Footer() {
                 {/* Right item  */}
                 <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                     {/* Icon 1  */}
-                    <a className="text-gray-500">
+                    <a className="text-gray-500" >
                         <svg
                             fill="currentColor"
                             strokeLinecap="round"
@@ -64,7 +64,7 @@ function Footer() {
                     </a>
 
                     {/* Icon 3  */}
-                    <a className="ml-3 text-gray-500">
+                    <a className="ml-3 text-gray-500" href='https://twitter.com/ShravanThakare9'>
                         <svg
                             fill="none"
                             stroke="currentColor"
@@ -80,7 +80,7 @@ function Footer() {
                     </a>
 
                     {/* Icon 4  */}
-                    <a className="ml-3 text-gray-500">
+                    <a className="ml-3 text-gray-500" href='https://www.linkedin.com/in/shravan-thakare/'>
                         <svg
                             fill="currentColor"
                             stroke="currentColor"
