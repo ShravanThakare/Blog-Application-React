@@ -73,7 +73,7 @@ function BlogPostCard() {
                             ? 'rgb(226, 232, 240)'
                             : ' rgb(30, 41, 59)'
                         }}>
-                         Please Click on this so see full details
+                         Please Click on this to see full details
                         </p>
                       </div>
                     </div>
